@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/app-cos/static/css/main.f7337bfb.chunk.css",
+    "main.js": "/app-cos/static/js/main.c4f7427b.chunk.js",
+    "main.js.map": "/app-cos/static/js/main.c4f7427b.chunk.js.map",
+    "runtime-main.js": "/app-cos/static/js/runtime-main.ddadb1fd.js",
+    "runtime-main.js.map": "/app-cos/static/js/runtime-main.ddadb1fd.js.map",
+    "static/js/2.6d978105.chunk.js": "/app-cos/static/js/2.6d978105.chunk.js",
+    "static/js/2.6d978105.chunk.js.map": "/app-cos/static/js/2.6d978105.chunk.js.map",
+    "index.html": "/app-cos/index.html",
+    "static/css/main.f7337bfb.chunk.css.map": "/app-cos/static/css/main.f7337bfb.chunk.css.map",
+    "static/js/2.6d978105.chunk.js.LICENSE.txt": "/app-cos/static/js/2.6d978105.chunk.js.LICENSE.txt",
+    "static/media/header1.e210d623.jpg": "/app-cos/static/media/header1.e210d623.jpg",
+    "static/media/header2.26d6661b.jpg": "/app-cos/static/media/header2.26d6661b.jpg",
+    "static/media/header3.1b8172a4.jpg": "/app-cos/static/media/header3.1b8172a4.jpg",
+    "static/media/header4.6eaaf22c.jpg": "/app-cos/static/media/header4.6eaaf22c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddadb1fd.js",
+    "static/js/2.6d978105.chunk.js",
+    "static/css/main.f7337bfb.chunk.css",
+    "static/js/main.c4f7427b.chunk.js"
+  ]
+}
